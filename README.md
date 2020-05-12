@@ -1,5 +1,6 @@
 # CFA-Add-Tool
 Quick Python tool to help add cards to Cardfight Area.
+(Compiled .exe can found be in releases)
 
 What it actually does:
   - Modifies line 3 of *[Directory]/Text/NoUse.txt*, increasing the number by 1
@@ -13,5 +14,5 @@ What it actually does:
 
 To do:
   - Clean codebase
-  - Add Quick Sheild option
+  - Add Quick Shield option
   - Add Premium legality
